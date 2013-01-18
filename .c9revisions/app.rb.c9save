@@ -1,0 +1,6 @@
+{"ts":1358494562776,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"require 'sinatra'\n\nget '/hi' do\n  \"Hello World!\"\nend"]],"start1":0,"start2":0,"length1":0,"length2":52}]],"length":52}
+{"contributors":[],"silentsave":false,"ts":1358494726186,"patch":[[{"diffs":[[1,"//"],[0,"require "]],"start1":0,"start2":0,"length1":8,"length2":10}]],"length":54,"saved":false}
+{"ts":1358494983504,"patch":[[{"diffs":[[-1,"//"],[0,"requ"]],"start1":0,"start2":0,"length1":6,"length2":4}]],"length":52,"saved":false}
+{"ts":1358495240657,"patch":[[{"diffs":[[0,"o World!"],[1,"!"],[0,"\"\nend"]],"start1":39,"start2":39,"length1":13,"length2":14}]],"length":53,"saved":false}
+{"ts":1358495424148,"patch":[[{"diffs":[[0,"t '/"],[-1,"hi"],[0,"' do"]],"start1":21,"start2":21,"length1":10,"length2":8}]],"length":51,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1358495848314,"patch":[[{"diffs":[[0,"lo World"],[1,".."],[0,"!!\"\nend"]],"start1":36,"start2":36,"length1":15,"length2":17}]],"length":53,"saved":false}
