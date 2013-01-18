@@ -1,0 +1,2 @@
+{"ts":1358548458173,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1358548462229,"patch":[[{"diffs":[[1,"require './hello'\nrun Sinatra::Application"]],"start1":0,"start2":0,"length1":0,"length2":42}]],"length":42,"saved":false}
